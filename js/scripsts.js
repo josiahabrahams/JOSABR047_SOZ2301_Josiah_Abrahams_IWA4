@@ -3,8 +3,10 @@ let status = 'student';
 let count = 0;
 
 if (date = 2050) {
-	console.log("January", 'New Year’s Day')
-	console.log("March", 'Human Rights Day')
+	date="January"
+    console.log(date, 'New Year’s Day')
+	date="March"
+    console.log(date, 'Human Rights Day')
 	date = 'April'
 	console.log(date, 'Family Day')
 	console.log(date, 'Freedom Day')
